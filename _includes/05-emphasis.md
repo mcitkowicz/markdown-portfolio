@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# _*Skills*_
+
+List of **skills**:
+
+## _Programming_
+- R
+
+## _Work_
+1. AIR
+2. NU
